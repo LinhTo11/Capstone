@@ -1,6 +1,6 @@
 # Capstone
 
-The purpose of this project and analysis is to analyze fund flow data from three different types of investments and identify tradeable signals that will aid in investment strategies
+The purpose of this project and analysis is to analyze fund flow data from three different types of financial investments and identify tradeable signals that will aid in investment strategies
 
 ## Overview
 The dataset contains weekly data of 3 types of investments: institutional ETF, institutional mutual fund, and retail mutual fund, from 2006 to 2017 with the following variables. 
